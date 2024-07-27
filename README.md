@@ -1,4 +1,3 @@
-![MasterHead](https://www.zealousweb.com/wp-content/uploads/2020/05/Banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Kemal Akkuş</h1>
 <h3 align="center">I am an Android Developer from Turkey</h3>
 
